@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vbrahmkshatriya
-- 👀 I’m interested in Cyber Security and Information Security.
-- 🌱 I’m currently learning Snowflake, Incident Response and Threat Hunting techniques.
-- 📫 How to reach me ..
-  @Gmail - varun.brahmkshatriya@therealreal.com
+- 👋 Hi, I’m Varun Brahmkshatriya
+- 👀 I'm Information Security enthusiast. 
+- 🌱 Expert in Security Operation Center Analysis, Python for Automation, Web Application Security, Incident Response and Data Analysis.
+- 📫 Reach out to me ..
+  Email - brahmkshatriya.v@northeastern.edu
   @LinkedIn - https://www.linkedin.com/in/varun-brahmkshatriya/
 
 <!---
