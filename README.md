@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Varun Brahmkshatriya
-- 👀 I'm Information Security enthusiast. 
-- 🌱 Adequate experience with Security Operation Center Analysis, Python for Automation, Web Application Security, Incident Response and Data Analysis.
-- 📫 Reach out to me ..
-  -  Email - brahmkshatriya.v@northeastern.edu
-  -  LinkedIn - https://www.linkedin.com/in/varun-brahmkshatriya/
+
+I'm a passionate security engineer with 3+ years of experience in secuing enterprise-scale infrastructure and web applications. I'm proficient in cloud security, application security and detection & response. I'm particularly interested in proactive security measures and integrating security into the development lifecycle. 
+
+Skills:
+  - Cloud Security (AWS, GCP, Azure)
+  - Application Security (Threat Modeling, OWASP, Secure Coding)
+  - Detection & Response (SIEM, XDR, Vulnerability Management)
+  - Programming Languages (Python, Java, scripting)
+
+Certifications:
   -  Credly - https://www.credly.com/users/varun-brahmkshatriya.edb55f40
+
+Always learning and looking for ways to contribute to the security community!
+
+- 📫 Reach out to me ..
+  -  LinkedIn - https://www.linkedin.com/in/varun-brahmkshatriya/
+
   
 
 <!---
